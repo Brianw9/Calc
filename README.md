@@ -1,2 +1,2 @@
 # Calc
-simple calculator
+A simple GUI calculator
